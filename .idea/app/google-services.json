@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392927341842",
+    "project_id": "safeskies-9df6b",
+    "storage_bucket": "safeskies-9df6b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392927341842:android:6f9f121a85050da93697cb",
+        "android_client_info": {
+          "package_name": "ie.tus.finalyearproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASbjpr238zfolw19TJmcaeDwI4-4-VMKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
